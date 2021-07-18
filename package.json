@@ -12,6 +12,17 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "nodemon": "^2.0.12"
-  }
+    "nodemon": "^2.0.12",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melbrewer323/note-taking-application.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/melbrewer323/note-taking-application/issues"
+  },
+  "homepage": "https://github.com/melbrewer323/note-taking-application#readme"
 }
